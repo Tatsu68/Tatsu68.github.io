@@ -1,3 +1,7 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Kolaa'
+theme = 'ananke'
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'

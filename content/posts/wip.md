@@ -1,6 +1,6 @@
 +++
 date = '2025-04-07T23:52:59+09:00'
-draft = true
+draft = false
 title = 'Wip'
 +++
 ## Introduction

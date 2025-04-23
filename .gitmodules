@@ -13,4 +13,4 @@ url=git@github.com:Tatsu68/blowfish.git
 	url = git@github.com:Tatsu68/hugo-PaperMod.git
 [submodule "themes/LoveIt"]
 	path = themes/LoveIt
-	url = git@github.com:dillonzq/LoveIt.git
+url=git@github.com:Tatsu68/LoveIt_GithubPage.git

@@ -1,7 +1,16 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://k.ior.works/'
 languageCode = 'en-us'
-title = 'WIPWIPWIP'
-theme = 'blowfish'
+title = 'TAN SAN'
+theme = 'LoveIt'
+enableRobotsTXT = true
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+
+[output]
+  home = ["HTML", "RSS", "JSON"]
+[params]
+  description = "Spill your cola."
+  [params.home]
+    [params.home.profile]
+      description = "bang"

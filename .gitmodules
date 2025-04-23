@@ -8,3 +8,9 @@
 	path = themes/blowfish
 url=git@github.com:Tatsu68/blowfish.git
 	branch = main
+[submodule "themes/hugo-PaperMod"]
+	path = themes/hugo-PaperMod
+	url = git@github.com:Tatsu68/hugo-PaperMod.git
+[submodule "themes/LoveIt"]
+	path = themes/LoveIt
+	url = git@github.com:dillonzq/LoveIt.git

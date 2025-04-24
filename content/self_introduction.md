@@ -2,7 +2,13 @@
 date = '2025-04-23T22:28:49+09:00'
 draft = false
 title = 'Self Introduction・自己紹介'
+featuredImage = '/images/selfintrobanner.png'
 +++
+
+![LOVE LOVE](/images/meishi.png)
+
+*Icon by [Konseki Takane](https://x.com/konseki_takane)*
+
 # Who am I? 私は？
 Hi, I'm Kolaa. I create music and other stuffs.
 
@@ -20,3 +26,5 @@ Kolaaと申します。音楽や他のものを作っています。
 ---
 
 {{<big>}}**Spill your cola.**{{</big>}}
+
+---

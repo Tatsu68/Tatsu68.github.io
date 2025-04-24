@@ -21,12 +21,15 @@ enableRobotsTXT = true
         email = "kolaamusic@gmail.com"
         link = "/"
     [params.social]
+        email = "kolaamusic@gmail.com"
         GitHub = "Tatsu68"
         X = "Kolaa_TD"
         Soundcloud = "kolaa-music"
         Spotify = "5zVsUNaNnMvSx05z146uE6"
         Youtubechannel = "UCnEZ4j6XJIXcAbC_cjWI6mQ"
+        niconico = "85685165"
         bilibili = "4020444"
+        applemusic = "kolaa/1363998964"
     [[params.socialIcons]]
     name = "Youtubechannel"
     url = "https://soundcloud.com/yourname"
@@ -38,17 +41,56 @@ enableRobotsTXT = true
     [params.header]
 
         [params.header.title]
-            logo = "images/kolaa_black.png"
+            logo = "/images/kolaa_black.png"
             logoDark = "images/kolaa_white.png"
             logoMark = false        
             logoText = false    
             name = ""
     [params.home]
         [params.home.profile]
-            title = "Bang"
-            subtitle = "Welcome"
+            title = "IV."
+            subtitle = "Spill your cola."
             typeit = true
+            avatarURL = "/images/avatar.png"
+
+        [params.home.posts]
+            enable = true
+            # special amount of posts in each home posts page
+            # 主页每页显示文章数量
+            paginate = 1
     [params.footer]
         socialIconCenter = true
     [params.page]
         showHeaderCover = true 
+
+[menu]
+  [[menu.main]]
+    weight = 1
+    identifier = "posts"
+    # you can add extra information before the name (HTML format is supported), such as icons
+    # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
+    pre = ""
+    # you can add extra information after the name (HTML format is supported), such as icons
+    # 你可以在名称 (允许 HTML 格式) 之后添加其他信息, 例如图标
+    post = ""
+    name = "Posts"
+    url = "/posts/"
+    # title will be shown when you hover on this menu link
+    # 当您将鼠标悬停在此菜单链接上时, 将显示标题
+    title = ""
+  [[menu.main]]
+    weight = 2
+    identifier = "whoAmI"
+    pre = ""
+    post = ""
+    name = "Who am I?"
+    url = "/self_introduction/"
+    title = ""
+  [[menu.main]]
+    weight = 3
+    identifier = "contact"
+    pre = ""
+    post = ""
+    name = "Contact"
+    url = "/posts/wip/"
+    title = ""

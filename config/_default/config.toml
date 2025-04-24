@@ -1,0 +1,54 @@
+baseURL = 'localhost:1313'
+languageCode = 'en-us'
+title = 'Carbonic Acid Fountain'
+theme = 'LoveIt'
+enableRobotsTXT = true
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
+[output]
+  home = ["HTML", "RSS", "JSON"]
+
+[params]
+    defaultTheme = "auto"
+    title = "Carbonic"
+    description = "Kolaa's personal website Kolaaの個人サイト"
+
+    [params.author]
+
+        name = "Kolaa"
+        email = "kolaamusic@gmail.com"
+        link = "/"
+    [params.social]
+        GitHub = "Tatsu68"
+        X = "Kolaa_TD"
+        Soundcloud = "kolaa-music"
+        Spotify = "5zVsUNaNnMvSx05z146uE6"
+        Youtubechannel = "UCnEZ4j6XJIXcAbC_cjWI6mQ"
+        bilibili = "4020444"
+    [[params.socialIcons]]
+    name = "Youtubechannel"
+    url = "https://soundcloud.com/yourname"
+    color = "#ff0000"
+
+    [params.style]
+        backgroundColor = "#11ffff"
+    
+    [params.header]
+
+        [params.header.title]
+            logo = "images/kolaa_black.png"
+            logoDark = "images/kolaa_white.png"
+            logoMark = false        
+            logoText = false    
+            name = ""
+    [params.home]
+        [params.home.profile]
+            title = "Bang"
+            subtitle = "Welcome"
+            typeit = true
+    [params.footer]
+        socialIconCenter = true
+    [params.page]
+        showHeaderCover = true 

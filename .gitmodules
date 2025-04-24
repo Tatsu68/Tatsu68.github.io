@@ -1,16 +1,3 @@
-[submodule "themes/ananke"]
-	path = themes/ananke
-	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
-[submodule "themes/hello-friend-ng"]
-	path = themes/hello-friend-ng
-	url = https://github.com/rhazdon/hugo-theme-hello-friend-ng.git
-[submodule "themes/blowfish"]
-	path = themes/blowfish
-url=git@github.com:Tatsu68/blowfish.git
-	branch = main
-[submodule "themes/hugo-PaperMod"]
-	path = themes/hugo-PaperMod
-	url = git@github.com:Tatsu68/hugo-PaperMod.git
 [submodule "themes/LoveIt"]
 	path = themes/LoveIt
 url=git@github.com:Tatsu68/LoveIt_GithubPage.git

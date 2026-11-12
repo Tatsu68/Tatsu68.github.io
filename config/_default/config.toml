@@ -57,7 +57,7 @@ enableRobotsTXT = true
             enable = true
             # special amount of posts in each home posts page
             # 主页每页显示文章数量
-            paginate = 1
+            paginate = 3
     [params.footer]
         socialIconCenter = true
     [params.page]

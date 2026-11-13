@@ -42,12 +42,12 @@ Feel free to contact me via e-mail.
 
 ## ご依頼可能な内容 Services Offered
 
-### 音楽関連 - Music Related
+### 音楽関連 Music Related
 
 - **音楽制作 - Music Production**
 - DJ出演 - DJ Booking / Live Performance
 
-### 他の依頼 - Others
+### その他 Other Services
 - ゲーム開発 - Game Development
     - Unity & Godot
 - 3DCG制作 - 3DCG Production
@@ -79,7 +79,7 @@ Feel free to contact me via e-mail.
 - 原則として、すべてのライセンスにおいてクレジット表記をお願いしております。
 - 生楽器の収録が必要な場合は、演奏者・スタジオなどの実費も別途発生いたします。
 - 事務所やマネジメント会社に所属されているアーティスト・VTuber様からのご依頼は、法人料金を適用させていただきます。
-- 配信収益分配など条件により微調整が可能です。
+- 配信収益の分配などの条件により制作費の調整も可能です。
 
 ---
 
@@ -87,7 +87,7 @@ Feel free to contact me via e-mail.
 - In principle, all types of license require artist attribution.
 - Additional fees apply if live instrument recording is required.
 - Artists or talents affiliated with an agency or management company are subject to corporate rates.
-- Pricing could be adjusted regarding conditions such as split rate of music distribution.
+- Rates are negotiable depending on terms such as streaming revenue splits (royalties).
 
 ### 他の依頼 Others
 

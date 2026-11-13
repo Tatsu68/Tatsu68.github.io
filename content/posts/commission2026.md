@@ -58,13 +58,13 @@ Feel free to contact me via e-mail.
 
 - 日本在住のため、価格はすべて日本円（JPY）表記となります。
 - なお、表示金額には、源泉徴収税および振込・決済手数料は**含まれておりません**。
-- 銀行振込、Paypay、Paypal、Wiseでのお支払いが可能です。お支払いの際の各種手数料は、ご依頼主様にてご負担をお願いいたします。
+- 銀行振込、Paypay、Wiseでのお支払いが可能です。お支払いの際の各種手数料は、ご依頼主様にてご負担をお願いいたします。
 
 ---
 
 - As I am based in Japan, all prices are listed in Japanese Yen (JPY).
 - Withholding taxes and transaction/transfer fees are **NOT** included in the listed prices.
-- Bank transfers, PayPay, PayPal, and Wise are accepted. Please note that any transfer or transaction fees must be covered by the client.
+- Bank transfers, PayPay, and Wise are accepted. Please note that any transfer or transaction fees must be covered by the client.
 
 ### 音楽制作 Music Production
 

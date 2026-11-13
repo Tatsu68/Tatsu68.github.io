@@ -2,6 +2,10 @@
 date = '2026-11-13T04:27:45+09:00'
 draft = false
 title = 'Commission Open - 依頼募集中'
+featuredImage = '/images/commission2026.png'
+relative = false
+alt = 'Commission Open!'
+caption = 'Commission Open!!!'
 +++
 ## 依頼募集再開！ Commission open!
 

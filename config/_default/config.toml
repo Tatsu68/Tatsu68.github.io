@@ -21,15 +21,15 @@ enableRobotsTXT = true
         email = "kolaamusic@gmail.com"
         link = "/"
     [params.social]
-        email = "kolaamusic@gmail.com"
-        GitHub = "Tatsu68"
-        X = "Kolaa_TD"
-        Soundcloud = "kolaa-music"
-        Spotify = "5zVsUNaNnMvSx05z146uE6"
-        Youtubechannel = "UCnEZ4j6XJIXcAbC_cjWI6mQ"
-        niconico = "85685165"
-        bilibili = "4020444"
-        applemusic = "kolaa/1363998964"
+        email = { id = "kolaamusic@gmail.com", weight = 1 }
+        X = { id = "Kolaa_TD", weight = 2 }
+        Youtubechannel = { id = "UCnEZ4j6XJIXcAbC_cjWI6mQ", weight = 3 }
+        Soundcloud = { id = "kolaa-music", weight = 4 }
+        Spotify = { id = "5zVsUNaNnMvSx05z146uE6", weight = 5 }
+        applemusic = { id = "kolaa/1363998964", weight = 6 }
+        niconico = { id = "85685165", weight = 7 }
+        bilibili = { id = "4020444", weight = 8 }
+        GitHub = { id = "Tatsu68", weight = 9 }
     [[params.socialIcons]]
     name = "Youtubechannel"
     url = "https://soundcloud.com/yourname"
@@ -42,7 +42,7 @@ enableRobotsTXT = true
 
         [params.header.title]
             logo = "/images/kolaa_black.png"
-            logoDark = "images/kolaa_white.png"
+            logoDark = "/images/kolaa_white.png"
             logoMark = false        
             logoText = false    
             name = ""

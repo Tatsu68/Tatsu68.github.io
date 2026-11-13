@@ -36,6 +36,10 @@ Feel free to contact me via e-mail.
 
 [kolaamusic@gmail.com](mailto:kolaamusic@gmail.com)
 
+### 作品展示 Showreel
+
+{{< youtube FzrVJdNdOcg >}}
+
 ## ご依頼可能な内容 Services Offered
 
 ### 音楽関連 - Music Related

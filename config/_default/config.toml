@@ -11,6 +11,7 @@ enableRobotsTXT = true
   home = ["HTML", "RSS", "JSON"]
 
 [params]
+    fingerprint = "sha256"
     defaultTheme = "auto"
     title = "Carbonic"
     description = "Kolaa's personal website Kolaaの個人サイト"
